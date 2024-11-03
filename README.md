@@ -1,3 +1,5 @@
+<img width="700" alt="Proxies and scrapers GitHub bonus banner" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png">
+
 ## Table of Contents
 
 - [Free Amazon Scraper](#free-amazon-scraper)
