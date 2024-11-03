@@ -83,7 +83,7 @@ The [Bright Data Amazon Scraper API](https://brightdata.com/products/web-scraper
 
 - **No Infrastructure Management**: No need to handle proxies or unblocking systems.
 - **Geo-Location Scraping**: Scrape from any geographical region.
-- **Global IP Coverage**: Access over 72 million real user IPs in 195 countries with 99.99% uptime.
+- **Global IP Coverage**: Access [over 72 million real user IPs](https://brightdata.com/proxy-types/residential-proxies) in [195 countries](https://brightdata.com/locations) with 99.99% uptime.
 - **Flexible Data Delivery**: Get data via Amazon S3, Google Cloud, Azure, Snowflake, or SFTP in formats like JSON, NDJSON, CSV, and `.gz`.
 - **Privacy Compliance**: Fully complies with GDPR, CCPA, and other data protection laws.
 - **24/7 Support**: Dedicated support team is available around the clock to assist with any API-related questions or issues.
