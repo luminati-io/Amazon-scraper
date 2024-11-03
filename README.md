@@ -92,7 +92,7 @@ You also get **20 free API calls** to test the product and see how it fits your 
 
 ## Amazon Scraper API in Action
 
-> For a detailed guide on setting up the Amazon Scraper API, check our [Step-by-Step Setup Guide](https://github.com/triposat/amazon_scraper/blob/main/scraper_api_setup.md#amazon-reviews).
+> For a detailed guide on setting up the Amazon Scraper API, check our [Step-by-Step Setup Guide](https://github.com/luminati-io/Amazon-scraper/blob/main/scraper_api_setup.md#amazon-reviews).
 
 ### Customize Data Collection with API Parameters
 
@@ -236,7 +236,7 @@ if __name__ == "__main__":
         if data:
             store_data(data)
 ```
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_products_data.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_products_data.json).
 
 ### Amazon Reviews Data
 Collect Amazon reviews by providing the product URL along with specific parameters like time frames, keywords, and the number of reviews to scrape.
@@ -365,7 +365,7 @@ if __name__ == "__main__":
         if data:
             store_data(data)
 ```
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_reviews_data.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_reviews_data.json).
 
 ### Amazon Products Search
 Discover Amazon products by providing a keyword for your search.
@@ -496,7 +496,7 @@ if __name__ == "__main__":
         if data:
             store_data(data)
 ```
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_keywords_data.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_keywords_data.json).
 
 ### Amazon Sellers Info
 Discover detailed information about Amazon sellers by providing their specific seller URL.
@@ -635,7 +635,7 @@ if __name__ == "__main__":
             store_data(data)
 ```
 
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_seller_data.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_seller_data.json).
 
 ### Amazon Products by Best Sellers
 Discover top-selling products on Amazon by providing the URL for the Best Sellers category.
@@ -772,7 +772,7 @@ if __name__ == "__main__":
         if data:
             store_data(data)
 ```
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_bestsellers.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_bestsellers.json).
 
 ### Amazon Products by Category URL
 Discover and collect Amazon product data by providing a specific category URL. Customize your search with sorting options and location-based filters.
@@ -922,7 +922,7 @@ if __name__ == "__main__":
             store_data(data)
 ```
 
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_discover_by_category_url.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_discover_by_category_url.json).
 
 ### Amazon Products by Keyword
 Discover products by using specific keywords.
@@ -1047,7 +1047,7 @@ if __name__ == "__main__":
             store_data(data)
 ```
 
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_keyword_data.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_keyword_data.json).
 
 ### Amazon Products Global Dataset
 Collect product data across all major Amazon domains by providing a URL.
@@ -1210,7 +1210,7 @@ if __name__ == "__main__":
             store_data(data)
 ```
 
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_products_global_dataset.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_products_global_dataset.json).
 
 ### Amazon Products Global Dataset - Discover by Category URL
 Discover products by providing a specific category URL.
@@ -1350,7 +1350,7 @@ if __name__ == "__main__":
         if data:
             store_data(data)
 ```
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_product_global_category_url.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_product_global_category_url.json).
 
 ### Amazon Products Global Dataset - Discover by Keywords
 Discover products by using specific keywords across Amazon domains.
@@ -1507,4 +1507,4 @@ if __name__ == "__main__":
         if data:
             store_data(data)
 ```
-You can view the full output by downloading [this sample JSON file](https://github.com/triposat/amazon_scraper/blob/main/output_data/amazon_global_dataset_by_keyword.json).
+You can view the full output by downloading [this sample JSON file](https://github.com/luminati-io/Amazon-scraper/blob/main/output_data/amazon_global_dataset_by_keyword.json).
