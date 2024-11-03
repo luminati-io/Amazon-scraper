@@ -777,7 +777,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products by Category URL
 Discover and collect Amazon product data by providing a specific category URL. Customize your search with sorting options and location-based filters.
 
-<img width="700" alt="bright-data-web-scraper-api-discover-by-category-url" src="https://github.com/user-attachments/assets/fe0c08d4-15ac-4f59-bc54-5dc9e9b74df7">
+<img width="700" alt="bright-data-web-scraper-api-discover-by-category-url" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-discover-by-category-url.png">
 
 #### Key Input Parameters:
 | **Parameter** | **Type**  | **Description**                              | **Required** |
@@ -927,7 +927,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products by Keyword
 Discover products by using specific keywords.
 
-<img width="700" alt="bright-data-web-scraper-api-discover-by-keyword" src="https://github.com/user-attachments/assets/4c57fb02-90c4-4c19-94ee-c5800201f3c3">
+<img width="700" alt="bright-data-web-scraper-api-discover-by-keyword" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-discover-by-keyword.png">
 
 #### Key Input Parameters:
 | **Parameter** | **Type**  | **Description**                   | **Required** |
@@ -1052,7 +1052,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products Global Dataset
 Collect product data across all major Amazon domains by providing a URL.
 
-<img width="700" alt="bright-data-web-scraper-api-amazon-product-global-dataset" src="https://github.com/user-attachments/assets/f6aa9161-c519-4f58-bef4-ffea9c96b306">
+<img width="700" alt="bright-data-web-scraper-api-amazon-product-global-dataset" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-amazon-product-global-dataset.png">
 
 
 #### Key Input Parameters:
@@ -1215,7 +1215,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products Global Dataset - Discover by Category URL
 Discover products by providing a specific category URL.
 
-<img width="700" alt="bright-data-web-scraper-api-amazon-product-global-category-url" src="https://github.com/user-attachments/assets/6273ae07-72ea-4a68-a8b7-9c90a0931f90">
+<img width="700" alt="bright-data-web-scraper-api-amazon-product-global-category-url" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-amazon-product-global-category-url.png">
 
 
 #### Key Input Parameters:
@@ -1355,7 +1355,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products Global Dataset - Discover by Keywords
 Discover products by using specific keywords across Amazon domains.
 
-<img width="700" alt="bright-data-web-scraper-api-amazon_global_dataset_by_keyword" src="https://github.com/user-attachments/assets/a613559e-bba0-44d4-82fa-c947d8258212">
+<img width="700" alt="bright-data-web-scraper-api-amazon_global_dataset_by_keyword" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-amazon_global_dataset_by_keyword.png">
 
 #### Key Input Parameters:
 | **Parameter**      | **Type**   | **Description**                            | **Required** |
