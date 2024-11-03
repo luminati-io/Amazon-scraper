@@ -64,7 +64,7 @@ After scraping, the extracted data will be saved as `amazon_data.csv` in the pro
 
 Here's how the data will look:
 
-<img width="700" alt="bright-data-amazon_csv_data" src="https://github.com/user-attachments/assets/1346f6f4-f85b-4708-b28b-f255166de907">
+<img width="700" alt="bright-data-amazon_csv_data" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-amazon_csv_data.png">
 
 ## Challenges When Scraping Amazon Data
 Scraping Amazon data isn't always straightforward. Here are a few challenges that you might encounter:
@@ -74,7 +74,7 @@ Scraping Amazon data isn't always straightforward. Here are a few challenges tha
 
 Below is an example of what happens when Amazon detects automated scraping attempts:
 
-<img src="https://github.com/user-attachments/assets/9e6061c7-ed1c-4296-afd4-0df385e06b2e" alt="Amazon Blocked" width="700"/>
+<img src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/Amazon%20Blocked.png" alt="Amazon Blocked" width="700"/>
 
 As shown above, Amazon blocked the request to prevent further data scraping — a common issue that many scrapers encounter.
 
@@ -110,7 +110,7 @@ Use the following API parameters to customize your data collection:
 ### Amazon Product Data
 Collect detailed product data from Amazon by providing a product URL.
 
-<img width="700" alt="bright-data-web-scraper-api-amazon-product-data" src="https://github.com/user-attachments/assets/6352b480-2918-41bf-b770-3d272397a429">
+<img width="700" alt="bright-data-web-scraper-api-amazon-product-data" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-amazon-product-data.png">
 
 #### Key Input Parameters:
 | Parameter | Type   | Description                    | Required |
@@ -241,7 +241,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Reviews Data
 Collect Amazon reviews by providing the product URL along with specific parameters like time frames, keywords, and the number of reviews to scrape.
 
-<img width="700" alt="bright-data-web-scraper-api-amazon-product-reviews" src="https://github.com/user-attachments/assets/27513388-ccfa-4b27-9515-e1662f0da457">
+<img width="700" alt="bright-data-web-scraper-api-amazon-product-reviews" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-amazon-product-reviews.png">
 
 
 #### Key Input Parameters:
@@ -370,7 +370,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products Search
 Discover Amazon products by providing a keyword for your search.
 
-<img width="700" alt="bright-data-web-scraper-api-keyword-search" src="https://github.com/user-attachments/assets/3f5b3539-e222-470c-a6ee-fb92f83f7ecb">
+<img width="700" alt="bright-data-web-scraper-api-keyword-search" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-keyword-search.png">
 
 #### Key Input Parameters:
 | Parameter         | Type    | Description                                 | Required |
@@ -501,7 +501,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Sellers Info
 Discover detailed information about Amazon sellers by providing their specific seller URL.
 
-<img width="700" alt="bright-data-web-scraper-api-seller-info" src="https://github.com/user-attachments/assets/c2bb725e-8598-4498-85d6-97052018e17a">
+<img width="700" alt="bright-data-web-scraper-api-seller-info" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-seller-info.png">
 
 
 #### Key Input Parameters:
@@ -640,7 +640,7 @@ You can view the full output by downloading [this sample JSON file](https://gith
 ### Amazon Products by Best Sellers
 Discover top-selling products on Amazon by providing the URL for the Best Sellers category.
 
-<img width="700" alt="bright-data-web-scraper-api-amazon-best-sellers" src="https://github.com/user-attachments/assets/82f8c98e-3050-4d5e-a3be-24ebae8f7fc9">
+<img width="700" alt="bright-data-web-scraper-api-amazon-best-sellers" src="https://github.com/luminati-io/Amazon-scraper/blob/main/images/bright-data-web-scraper-api-amazon-best-sellers.png">
 
 
 #### Key Input Parameters:
