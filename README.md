@@ -1,3 +1,5 @@
+# Amazon Scraper
+
 [![Promo](https://github.com/luminati-io/Amazon-scraper/blob/main/images/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/products/web-scraper/amazon?promo=github15) 
 
 ## Table of Contents
